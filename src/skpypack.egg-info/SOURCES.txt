@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/demopackage/__init__.py
+src/demopackage/main.py
+src/skpypack.egg-info/PKG-INFO
+src/skpypack.egg-info/SOURCES.txt
+src/skpypack.egg-info/dependency_links.txt
+src/skpypack.egg-info/top_level.txt
